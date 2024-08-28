@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AnimalApps</string>
+
+
+    <string name="animal_description">A fun app for animal lovers!</string>
+    <string name="additional_info">Explore the animal kingdom with us!</string>
+    <string name="button_text">Get Started</string>
+    <string name="animal_image_desc">Image of an animal</string>
+    <string name="tooltip_image">This is an image of an animal.</string>
+    <string name="tooltip_description">Description about the app purpose.</string>
+    <string name="tooltip_additional_info">Additional information about the app.</string>
+    <string name="tooltip_button">Click to get started!</string>
+
+</resources>
